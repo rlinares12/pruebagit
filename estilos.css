@@ -13,4 +13,5 @@ body{
 .cabecera{
     width: 40%;
     height: 45%;
+    display: flex;
 }
